@@ -29,6 +29,7 @@ This page is about me and all the things I've never said to anyone.
 
 And Another thing, Don't share the link, it is supposed to be private you know.
 
+<hr>
 
 ![](/NOTE20221008163139.png)
 
