@@ -33,29 +33,3 @@ And Another thing, Don't share the link, it is supposed to be private you know.
 ![](/blogs/hidden/NOTE20221008163139.png)
 
 <hr>
-
-
-<style>
-
-span{
-color: purple ;
-}
-
-body{
-padding: 1em;
-max-width: 2000px;
-margin: auto;
-font-family: "Source Serif Pro";
-line-height: 1.4em;
-color: var(--fg-color);
-background-color: var(black);
-background-image: url(https://gifimage.net/wp-content/uploads/2017/09/black-aesthetic-gif-12.gif);
-}
-
-h1,h3,h4,h5,h6{
-
-color: var(--color03);
-
-}
-
-</style>
