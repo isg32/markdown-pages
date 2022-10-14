@@ -4,7 +4,6 @@
 
 ## Personal info 
 
-<hr>
 
 Name: Sapan Gajjar
 
@@ -12,7 +11,6 @@ Email: [sapangajjar101105@gmail.com](sapangajjar101105@gmail.com)
 
 ## Social Links 
 
-<hr>
 
 Github :  [ISG32](https://github.com/isg32)
 
@@ -20,7 +18,6 @@ instagram :  [@bookofromantt](https://instagram.com/bookofromantt)
 
 ## About Section
 
-<hr>
 
 ### About me
 
@@ -32,7 +29,6 @@ This page is about me and all the things I've never said to anyone.
 
 And Another thing, Don't share the link, it is supposed to be private you know.
 
-<hr>
 
 ![](/blogs/hidden/NOTE20221008163139.png)
 
