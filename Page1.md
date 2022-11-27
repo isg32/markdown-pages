@@ -7,7 +7,7 @@
 
 Name: Sapan Gajjar
 
-Email: [sapangajjar101105@gmail.com(sapangajjar101105@gmail.com)
+Email: [sapangajjar101105@gmail.com(sapangajjar101105@gmail.com]
 
 ## Social Links 
 
